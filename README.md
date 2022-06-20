@@ -34,6 +34,5 @@ to start:
 
 to kill:
 
-	screen -r screenkey
-	> ^C
+	screen -S screenkey -X quit
 
