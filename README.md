@@ -15,20 +15,25 @@ Save the cheatsheet for quick references of the main commands:
 
 ### Load the local .vimrc configuration and start editing your files
 Option 1:
+
 	vim -u .vimrc <file>
 	
 Option 2:
+
 	export VIMINIT="source .vimrc"
 	vim <file>
 
 Option 3:
+
 	mv .vimrc ~/.vimrc
 
 ### Start ScreenKey
 to start:
+
 	screen -dmS screenkey bash -c 'bin/screenkey' 
 
 to kill:
+
 	screen -r screenkey
 	> ^C
 
