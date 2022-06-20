@@ -1,16 +1,18 @@
-[//]: <> ( Los párrafos de este texto están escritos en una sola línea, añade una nueva línea cada 100 caracteres aproximadamente )
-[//]: <> ( Para ello guarda la acción en un registro con q<key>, donde <key> es un letra cualquiera, m,j,k,a,b,q )
-[//]: <> ( En nuestro ejemplo usaremos qm  )
-[//]: <> ( Nos colocamos en la línea 17 (17G), y presionamos qm, ahora nos movemos al inicio de la línea, 0, 100 caracteres a la derecha 100l,  )
-[//]: <> ( nos movemos al inicio de la siguiente palabra W, borramos el espacio anterior X e insertamos una nueva linea i<enter>, presionamos q )
-[//]: <> ( Ahora tenemos guardado nuestro comando en el registro m, y podemos utilizarlo tantas veces como queramos. )
-[//]: <> ( Desde la línea en la que estamos presionamos @m )
-[//]: <> ( Para ejecutar el comando N veces pulsamos N@m )
-[//]: <> ( Activa el corrector ortográfico y corrige las primeras 4 palabras )
-[//]: <> ( :set spell )
-[//]: <> ( :setlocal spell spelllang=es )
-[//]: <> ( ]s <- para ir a la siguiente falta ortográfica )
-[//]: <> ( z= <- para mostrar sugerencias )
+<!--
+// Los párrafos de este texto están escritos en una sola línea, añade una nueva línea cada 100 caracteres aproximadamente
+// Para ello guarda la acción en un registro con q<key>, donde <key> es un letra cualquiera, m,j,k,a,b,q
+// En nuestro ejemplo usaremos qm 
+// Nos colocamos en la línea 17 (17G), y presionamos qm, ahora nos movemos al inicio de la línea, 0, 100 caracteres a la derecha 100l, 
+// nos movemos al inicio de la siguiente palabra W, borramos el espacio anterior X e insertamos una nueva linea i<enter>, presionamos q
+// Ahora tenemos guardado nuestro comando en el registro m, y podemos utilizarlo tantas veces como queramos.
+// Desde la línea en la que estamos presionamos @m
+// Para ejecutar el comando N veces pulsamos N@m
+// Activa el corrector ortográfico y corrige las primeras 4 palabras
+// :set spell
+// :setlocal spell spelllang=es
+// ]s <- para ir a la siguiente falta ortográfica
+// z= <- para mostrar sugerencias
+-->
 
 ## DON QUIJOTE DE LA MANCHA
 
