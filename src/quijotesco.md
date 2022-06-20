@@ -1,18 +1,18 @@
-// Los párrafos de este texto están escritos en una sola línea, añade una nueva línea cada 100 caracteres aproximadamente
-// Para ello guarda la acción en un registro con q<key>, donde <key> es un letra cualquiera, m,j,k,a,b,q
-// En nuestro ejemplo usaremos qm 
-// Nos colocamos en la línea 17 (17G), y presionamos qm, ahora nos movemos al inicio de la línea, 0, 100 caracteres a la derecha 100l, 
-// nos movemos al inicio de la siguiente palabra W, borramos el espacio anterior X e insertamos una nueva linea i<enter>, presionamos q
-// Ahora tenemos guardado nuestro comando en el registro m, y podemos utilizarlo tantas veces como queramos.
-// Desde la línea en la que estamos presionamos @m
-// Para ejecutar el comando N veces pulsamos N@m
-// Activa el corrector ortográfico y corrige las primeras 4 palabras
-// :set spell
-// :setlocal spell spelllang=es
-// ]s <- para ir a la siguiente falta ortográfica
-// z= <- para mostrar sugerencias
+[//]: <> ( Los párrafos de este texto están escritos en una sola línea, añade una nueva línea cada 100 caracteres aproximadamente )
+[//]: <> ( Para ello guarda la acción en un registro con q<key>, donde <key> es un letra cualquiera, m,j,k,a,b,q )
+[//]: <> ( En nuestro ejemplo usaremos qm  )
+[//]: <> ( Nos colocamos en la línea 17 (17G), y presionamos qm, ahora nos movemos al inicio de la línea, 0, 100 caracteres a la derecha 100l,  )
+[//]: <> ( nos movemos al inicio de la siguiente palabra W, borramos el espacio anterior X e insertamos una nueva linea i<enter>, presionamos q )
+[//]: <> ( Ahora tenemos guardado nuestro comando en el registro m, y podemos utilizarlo tantas veces como queramos. )
+[//]: <> ( Desde la línea en la que estamos presionamos @m )
+[//]: <> ( Para ejecutar el comando N veces pulsamos N@m )
+[//]: <> ( Activa el corrector ortográfico y corrige las primeras 4 palabras )
+[//]: <> ( :set spell )
+[//]: <> ( :setlocal spell spelllang=es )
+[//]: <> ( ]s <- para ir a la siguiente falta ortográfica )
+[//]: <> ( z= <- para mostrar sugerencias )
 
-DON QUIJOTE DE LA MANCHA
+## DON QUIJOTE DE LA MANCHA
 
 En un lugar de la Mancha, de cuyo nonbre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flako y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sabados, lentejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. El resto della concluían sayo de velarte, calzas de velludo para las fiestas con sus pantufos de lo mismo, los días de entre semana se honraba con su vellori de lo más fino. Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera. Frisaba la edad de nuestro hidalgo con los cincuenta años, era de complexión recia, seco de carnes, enjuto de rostro; gran madrugador y amigo de la caza. Quieren decir que tenía el sobrenombre de Quijada o Quesada (que en esto hay alguna diferencia en los autores que deste caso escriben), aunque por conjeturas verosímiles se deja entender que se llama Quijana; pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad.
 
