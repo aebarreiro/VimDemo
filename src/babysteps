@@ -1,0 +1,39 @@
+#!/bin/bash
+
+# Change all Vigo to Pontevedra
+# Place the cursor on this >> Vigo << and press * to search the word, now use ciw to change word to Pontevedra (use ^N to autocomplete)
+# Press n to go to next match and use . to repeat the action
+echo "This is the weather on Vigo:"
+
+curl -qsL "https://wttr.in/Vigo?0&p"
+echo
+
+# <CURSOR HERE> Change Lugo to Ourense on line 37, press 37G to go to that line
+
+START=1
+FINNISH=10 # Remove the extra N with 0fNx change the 0 to a 5 with f0r5
+
+# Delete the 3 following lines using 3dd
+echo "Now I will count from ${START} to ${FINISH}:"
+echo "Now I will count from ${START} to ${FINISH}:"
+
+echo "Now I will count from ${START} to ${FINISH}:"
+
+# Change BEIGN to BEGIN pressing xp when the cursor is placed on the I of BEIGN
+# Indent the loop contents with ==
+# From this line press 5==
+for i in $( seq ${BEIGN} ${END} ); do
+echo -n "counting: "
+echo ${i}
+done
+# The name of the variables are incorrect, change them to the correct value with ciw or ci{
+
+# Now that you are here press w 2 times, or 2w to go to the start of Lugo
+# You can also press fL to go the first L of the line
+# Now change only Lugo to Ourense using cfo or c4l
+# Go back to the start of Ourense using b or FO and do the same as before but changing Ourense to your favourite city, you can use c2fe or ctIo
+# Inverse the casing with g~i" and then set all characters as uppercase with gUi"
+
+echo "LugoIsTheBestCity!!" # Read 6 previous lines
+# Go back to previous line (11) pressing ^O 
+
