@@ -27,10 +27,10 @@ Option 3:
 
 	mv .vimrc ~/.vimrc
 
-### Start ScreenKey
+### Start ScreenKey (for demo)
 to start:
 
-	screen -dmS screenkey bash -c 'bin/screenkey' 
+	screen -dmS screenkey bash -c 'screenkey' 
 
 to kill:
 
