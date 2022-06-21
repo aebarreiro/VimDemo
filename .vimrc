@@ -57,10 +57,10 @@ au Filetype c,h nnoremap <leader>s :-1read .templates/c/skeleton.c<CR>
 " Add bash skeleton
 au Filetype sh nnoremap <leader>s :-1read .templates/bash/skeleton.sh<CR>
 
-# Add html skeleton
+" Add html skeleton
 au FileType html nnoremap <leader>l :-1read $HOME/templates/html/list.html<CR>
 
-# Add html and css comments
+" Add html and css comments
 au FileType css nnoremap <leader>c I/*<ESC>A*/<ESC>
 au FileType css nnoremap <leader>C 0f/d2l$F*d2l
 au FileType html nnoremap <leader>c O<!-- <++> --><ESC>0
